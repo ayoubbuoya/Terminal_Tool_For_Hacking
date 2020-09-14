@@ -1,4 +1,4 @@
-from HackingScripts import PortScanner
+import PortScanner
 from os import system
 print("     1======> [ $$PortScanner$$ ]\n")
 choice=input("Enter Your Choice(1/2/3/4) : ")
